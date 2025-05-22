@@ -8,12 +8,12 @@
   ConditionedMath (AIME &amp; MATH500) · PuzzleTrivial · Zero-shot pipelines
 </p>
 <p align="center">
-  <a href="https://github.com/ReasoningTrap/ReasoningTrap/actions">
+<!--   <a href="https://github.com/ReasoningTrap/ReasoningTrap/actions">
     <img alt="CI" src="https://github.com/ReasoningTrap/ReasoningTrap/actions/workflows/ci.yml/badge.svg"/>
   </a>
   <a href="https://pypi.org/project/ReasoningTrap">
     <img alt="PyPI" src="https://img.shields.io/pypi/v/contradictmath.svg"/>
-  </a>
+  </a> -->
   <a href="https://github.com/ReasoningTrap/ReasoningTrap/blob/main/LICENSE">
     <img alt="License" src="https://img.shields.io/github/license/ReasoningTrap/ReasoningTrap?label=license&style=flat"/>
   </a>
