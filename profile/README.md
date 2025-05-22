@@ -15,7 +15,7 @@
     <img alt="PyPI" src="https://img.shields.io/pypi/v/contradictmath.svg"/>
   </a>
   <a href="https://github.com/ReasoningTrap/ReasoningTrap/blob/main/LICENSE">
-    <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
+    <img alt="License" src="https://img.shields.io/github/license/ReasoningTrap/ReasoningTrap?label=license&style=for-the-badge"/>
   </a>
 </p>
 
