@@ -14,7 +14,7 @@
   <a href="https://pypi.org/project/ReasoningTrap">
     <img alt="PyPI" src="https://img.shields.io/pypi/v/contradictmath.svg"/>
   </a>
-  <a href="LICENSE">
+  <a href=".github/LICENSE">
     <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
   </a>
 </p>
