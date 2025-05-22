@@ -5,7 +5,7 @@
 </h1>
 <p align="center">
   <b>Fine-grain evaluation &amp; RL baselines for large language models that <i>think</i>.</b><br/>
-  ConditionedMath (AIME &amp; MATH500) · Model zoo · Training scripts · Zero-shot pipelines
+  ConditionedMath (AIME &amp; MATH500) · Model zoo · Zero-shot pipelines
 </p>
 <p align="center">
   <a href="https://github.com/your-org/ContradictMath/actions">
@@ -26,9 +26,8 @@
 > Current RL-tuned LLMs excel at *producing* answers, but often ignore explicit user constraints.  
 > **ReasoningTrap** surfaces these failure modes with carefully crafted, *conditioned* problems.
 
-* **Dual tracks** – AIME-style short answers and MATH500 long-form proofs.  
-* **RL objective zoo** – GRPO, PRM, Absolute-Zero Reasoner, Eurus-PRIME, ThinkPRM &amp; more.  
-* **G-score metric** – geometric mean of correctness, brevity &amp; justification quality.  
+* **Modified from Famous MATH Reasoning Benchmark** – AIME & MATH500 problems altered with minimal constraints to divert reasoning paths.
+* **Puzzles Trivialized by Subtle Modifications** - Well-known puzzles where a small change transforms a challenging problem into a trivial one.
 * **Plug-and-play** – evaluate any 🤗 Transformers, vLLM or OpenAI-style chat model in two lines.  
 
 ---
