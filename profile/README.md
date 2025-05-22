@@ -15,11 +15,10 @@
     <img alt="PyPI" src="https://img.shields.io/pypi/v/contradictmath.svg"/>
   </a>
   <a href="LICENSE">
-    <img alt="License" src="https://img.shields.io/github/ReasoningTrap/ReasoningTrap"/>
+    <img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"/>
   </a>
 </p>
 ---
-
 ## 📜 Why ReasoningTrap?
 
 > Current RL-tuned LLMs excel at *producing* answers, but often ignore explicit user constraints.  
