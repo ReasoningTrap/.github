@@ -1,21 +1,21 @@
 <!-- Banner -------------------------------------------------------------- -->
 <h1 align="center">
   <img src="sketch_style.jpg" width="48" alt="logo"/>
-  ContradictMath • Open-ended Math-Reasoning Benchmarks
+  ReasoningTrap • Diagnosing Set for Instruction Overriding in Reasoning Models
 </h1>
 <p align="center">
   <b>Fine-grain evaluation &amp; RL baselines for large language models that <i>think</i>.</b><br/>
-  ConditionedMath (AIME &amp; MATH500) · Model zoo · Zero-shot pipelines
+  ConditionedMath (AIME &amp; MATH500) · PuzzleTrivial · Zero-shot pipelines
 </p>
 <p align="center">
-  <a href="https://github.com/your-org/ContradictMath/actions">
-    <img alt="CI" src="https://github.com/your-org/ContradictMath/actions/workflows/ci.yml/badge.svg"/>
+  <a href="https://github.com/ReasoningTrap/ReasoningTrap/actions">
+    <img alt="CI" src="https://github.com/ReasoningTrap/ReasoningTrap/actions/workflows/ci.yml/badge.svg"/>
   </a>
-  <a href="https://pypi.org/project/contradictmath">
+  <a href="https://pypi.org/project/ReasoningTrap">
     <img alt="PyPI" src="https://img.shields.io/pypi/v/contradictmath.svg"/>
   </a>
   <a href="LICENSE">
-    <img alt="License" src="https://img.shields.io/github/license/your-org/ContradictMath.svg"/>
+    <img alt="License" src="https://img.shields.io/github/ReasoningTrap/ReasoningTrap/ContradictMath.svg"/>
   </a>
 </p>
 
