@@ -1,6 +1,6 @@
 <!-- Banner -------------------------------------------------------------- -->
 <h1 align="center">
-  <img src="sketch_style.png" width="48" alt="logo"/>
+  <img src="sketch_style.jpg" width="48" alt="logo"/>
   ContradictMath • Open-ended Math-Reasoning Benchmarks
 </h1>
 <p align="center">
