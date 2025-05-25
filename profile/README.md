@@ -22,13 +22,8 @@
 ---
 ## 📜 Why ReasoningTrap?
 
-> Current RL-tuned LLMs excel at *producing* answers, but often ignore explicit user constraints.  
+> Current RL-tuned Reasoning LLMs excel at *producing* answers but often ignore explicit user constraints.  
 > **ReasoningTrap** surfaces these failure modes with carefully crafted, *conditioned* problems.
-
 * **Modified from Famous MATH Reasoning Benchmark** – AIME & MATH500 problems altered with minimal constraints to divert reasoning paths.
 * **Puzzles Trivialized by Subtle Modifications** - Well-known puzzles where a small change transforms a challenging problem into a trivial one.
-* **Plug-and-play** – evaluate any 🤗 Transformers, vLLM or OpenAI-style chat model in two lines.  
-
----
-
-## 🚀 Quick start
+* **Plug-and-play** – evaluate any 🤗 Transformers model with vLLM in simple instructions.  
